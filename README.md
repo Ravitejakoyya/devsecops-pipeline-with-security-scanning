@@ -33,7 +33,8 @@ python app/main.py
 pytest
 
 ### Docker
-docker build -t devsecops-api . \n
+docker build -t devsecops-api .
+
 docker run -p 5000:5000 devsecops-api
 
 ----
