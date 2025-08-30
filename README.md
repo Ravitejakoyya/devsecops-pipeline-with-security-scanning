@@ -27,6 +27,8 @@ This project demonstrates a secure CI/CD pipeline using GitHub Actions, includin
 pip install -r app/requirements.txt
 python app/main.py
 
+```
+
 ### RUN TESTS
 pytest
 
